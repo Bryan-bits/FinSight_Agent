@@ -1,0 +1,17 @@
+# API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+
+# Data (too large for GitHub)
+data/
+
+# Model checkpoints
+*.pt
+*.pth
